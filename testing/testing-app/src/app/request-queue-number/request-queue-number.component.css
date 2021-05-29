@@ -1,0 +1,6 @@
+button {
+  background-color: purple;
+  color: white;
+  display: flex;
+  margin: 100px auto;
+}

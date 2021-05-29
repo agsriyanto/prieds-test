@@ -1,0 +1,49 @@
+mat-tab-group {
+  background-color: #dcdcdc;
+}
+.title-biodata {
+  font-size: 20px;
+  margin: 0;
+  padding: 10px;
+}
+.form {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.form-input {
+  height: 40px;
+  width: 47.5%;
+  border-radius: 5px;
+  margin: 10px;
+  border: solid 1px #dcdcdc;
+}
+.form-select {
+  height: 44px;
+  width: 48%;
+  border-radius: 5px;
+  margin: 10px;
+  border: solid 1px #dcdcdc;
+}
+.fas {
+  color: white;
+}
+.icon {
+  text-align: center;
+  border-radius: 3px;
+  margin: 10px;
+  width: 35px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  background-color: #5282c1;
+}
+.content {
+  background-color: white;
+}
+mat-tab {
+  color: black;
+}
+.mat-tab-label .mat-tab-label-content {
+  color: black;
+}
